@@ -1,0 +1,11 @@
+.pt-5rem {
+    padding-top: 15rem;
+}
+
+body {
+    background-image: url('../img/background.avif');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
